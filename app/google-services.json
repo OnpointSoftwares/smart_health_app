@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "71739860092",
+    "firebase_url": "https://salon-booking-5ea0c-default-rtdb.firebaseio.com",
+    "project_id": "salon-booking-5ea0c",
+    "storage_bucket": "salon-booking-5ea0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71739860092:android:bd03cac10b1845a687d5f9",
+        "android_client_info": {
+          "package_name": "com.example.lists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffcknN-RwS2gyhQEdaij93BnyV46zgrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71739860092:android:a41c53af2e1f872687d5f9",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffcknN-RwS2gyhQEdaij93BnyV46zgrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71739860092:android:62dc243d53ca903287d5f9",
+        "android_client_info": {
+          "package_name": "com.example.smartconsultancyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffcknN-RwS2gyhQEdaij93BnyV46zgrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71739860092:android:f2a2652e78cf69c587d5f9",
+        "android_client_info": {
+          "package_name": "com.service.parking.theparker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffcknN-RwS2gyhQEdaij93BnyV46zgrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71739860092:android:8bdd86bba0ca101687d5f9",
+        "android_client_info": {
+          "package_name": "sachdeva.saksham.medrescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffcknN-RwS2gyhQEdaij93BnyV46zgrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71739860092-ctshu0vnugb6ohcbkfpagqs7viqsg4bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
